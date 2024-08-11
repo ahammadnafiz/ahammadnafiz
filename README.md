@@ -26,7 +26,7 @@ graph TD
     style F fill:#00BCD4,stroke:#333,stroke-width:2px
     style G fill:#FF5722,stroke:#333,stroke-width:4px
     classDef default fill:#f9f,stroke:#333,stroke-width:2px;
-
+```
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
