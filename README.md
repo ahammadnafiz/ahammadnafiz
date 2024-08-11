@@ -9,6 +9,7 @@
 ## 🧠 Neural Network of Knowledge
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'nodeBorder': '#333', 'mainBkg': '#1a1a1a'}}}%%
 graph TD
     A[Python] -->|Input Layer| B(Data Science)
     B -->|Hidden Layer 1| C(Machine Learning)
@@ -18,14 +19,14 @@ graph TD
     E -->|Output Layer| G{AI}
     F -->|Output Layer| G
     G -->|Feedback Loop| A
-    style A fill:#3776AB,stroke:#333,stroke-width:2px
-    style B fill:#FFA500,stroke:#333,stroke-width:2px
-    style C fill:#4CAF50,stroke:#333,stroke-width:2px
-    style D fill:#9C27B0,stroke:#333,stroke-width:2px
-    style E fill:#E91E63,stroke:#333,stroke-width:2px
-    style F fill:#00BCD4,stroke:#333,stroke-width:2px
-    style G fill:#FF5722,stroke:#333,stroke-width:4px
-    classDef default fill:#f9f,stroke:#333,stroke-width:2px;
+    style A fill:#3572A5,stroke:#fff,stroke-width:2px
+    style B fill:#FFA726,stroke:#fff,stroke-width:2px
+    style C fill:#66BB6A,stroke:#fff,stroke-width:2px
+    style D fill:#AB47BC,stroke:#fff,stroke-width:2px
+    style E fill:#EF5350,stroke:#fff,stroke-width:2px
+    style F fill:#29B6F6,stroke:#fff,stroke-width:2px
+    style G fill:#FF7043,stroke:#fff,stroke-width:4px
+    classDef default fill:#1a1a1a,stroke:#fff,stroke-width:2px;
 ```
 ## 💻 Tech Stack
 
