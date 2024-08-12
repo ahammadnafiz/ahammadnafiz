@@ -41,14 +41,6 @@ graph TD
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-## 🌟 Projects
-
-| Project Codename | Description |
-|-------------------|-------------|
-| `Predicta` | Data Analysis and ML Tool |
-| `Rokomari Book Store Analysis` | Analyzed Batighor Publication Store |
-| `Synapto` | AI-Powered Note-Taking App |
-| `Oratio` | Voice and Vision Assistant |
 
 ## 📈 GitHub Stats
 
