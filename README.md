@@ -1,59 +1,105 @@
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/ahammadnafiz/count.svg)
-
-## 🧠 `Ahammad.init(Data_Science)`
-
-</div>
-
-## 🧠 Neural Network of Knowledge
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'nodeBorder': '#333', 'mainBkg': '#1a1a1a'}}}%%
-graph TD
-    A[Python] -->|Input Layer| B(Data Science)
-    B -->|Hidden Layer 1| C(Machine Learning)
-    B -->|Hidden Layer 1| D(Data Visualization)
-    C -->|Hidden Layer 2| E(Deep Learning)
-    D -->|Hidden Layer 2| F(Statistical Analysis)
-    E -->|Output Layer| G{AI}
-    F -->|Output Layer| G
-    G -->|Feedback Loop| A
-    style A fill:#3572A5,stroke:#fff,stroke-width:2px
-    style B fill:#FFA726,stroke:#fff,stroke-width:2px
-    style C fill:#66BB6A,stroke:#fff,stroke-width:2px
-    style D fill:#AB47BC,stroke:#fff,stroke-width:2px
-    style E fill:#EF5350,stroke:#fff,stroke-width:2px
-    style F fill:#29B6F6,stroke:#fff,stroke-width:2px
-    style G fill:#FF7043,stroke:#fff,stroke-width:4px
-    classDef default fill:#1a1a1a,stroke:#fff,stroke-width:2px;
-```
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahammadnafiz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammadnafiz&layout=compact&theme=radical)
-
-
-</div>
-
-## 🌐 Connect
-[![Blog](https://img.shields.io/badge/Blog-Tech%20Insights-orange?style=for-the-badge&logo=blogger&logoColor=white)]([https://techinsights.com](https://ahammadnafiz.github.io/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ahammadnafiz@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahammad-nafiz/)
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/ahammadnafiz)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahammad Nafiz - GitHub README</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background-color: #0a0a0a;
+            color: #e0e0e0;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .container {
+            background: linear-gradient(45deg, #1a1a1a, #2a2a2a);
+            border: 1px solid #3a3a3a;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);
+        }
+        h1, h2 {
+            color: #00ffff;
+            text-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+        }
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .tech-badge {
+            background-color: #2a2a2a;
+            color: #00ffff;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .stats img {
+            width: 48%;
+            height: auto;
+        }
+        .connect {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+        .connect a {
+            color: #00ffff;
+            text-decoration: none;
+            padding: 5px 10px;
+            border: 1px solid #00ffff;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        .connect a:hover {
+            background-color: #00ffff;
+            color: #0a0a0a;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div align="center">
+            <img src="https://profile-counter.glitch.me/ahammadnafiz/count.svg" alt="Visitor Count" />
+            <h1>🧠 `Ahammad.init(Data_Science)`</h1>
+        </div>
+        
+        <h2>💻 Tech Stack</h2>
+        <div class="tech-stack">
+            <span class="tech-badge">Python</span>
+            <span class="tech-badge">Scikit-Learn</span>
+            <span class="tech-badge">Pandas</span>
+            <span class="tech-badge">NumPy</span>
+            <span class="tech-badge">Matplotlib</span>
+            <span class="tech-badge">Neovim</span>
+            <span class="tech-badge">Figma</span>
+            <span class="tech-badge">Plotly</span>
+            <span class="tech-badge">Seaborn</span>
+            <span class="tech-badge">Streamlit</span>
+        </div>
+        
+        <h2>📈 GitHub Stats</h2>
+        <div class="stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=ahammadnafiz&show_icons=true&theme=radical" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahammadnafiz&layout=compact&theme=radical" alt="Top Languages" />
+        </div>
+        
+        <h2>🌐 Connect</h2>
+        <div class="connect">
+            <a href="https://ahammadnafiz.github.io/">Blog</a>
+            <a href="mailto:ahammadnafiz@outlook.com">Email</a>
+            <a href="https://www.linkedin.com/in/ahammad-nafiz/">LinkedIn</a>
+            <a href="https://www.behance.net/ahammadnafiz">Behance</a>
+        </div>
+    </div>
+</body>
+</html>
