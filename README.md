@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/ahammadnafiz/count.svg)
 
-## 🧠 `Ahammad.init(Data_Science)`
+## 🧠 `Ahammad Nafiz`
 
 </div>
 
