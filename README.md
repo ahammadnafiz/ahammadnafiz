@@ -19,14 +19,6 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammadnafiz&layout=compact&theme=radical)
-
-</div>
-
 ## 🌐 Connect
 [![Blog](https://img.shields.io/badge/Blog-Tech%20Insights-orange?style=for-the-badge&logo=blogger&logoColor=white)]([https://techinsights.com](https://ahammadnafiz.github.io/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ahammadnafiz@outlook.com)
