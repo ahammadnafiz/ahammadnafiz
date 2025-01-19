@@ -19,7 +19,7 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahammadnafiz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahammadnafiz&theme=dark)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammadnafiz&layout=compact&theme=radical&hide_border=true)
 
 ## 🌐 Connect
