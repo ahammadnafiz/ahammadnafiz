@@ -1,6 +1,6 @@
-<div align="center">
+make it minimal <div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/ahammadnafiz/count.svg)
-## 🧠 `Ahammad Nafiz`
+## 🧠 Ahammad Nafiz
 </div>
 
 ## 💻 Tech Stack
