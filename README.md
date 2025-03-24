@@ -1,5 +1,7 @@
 <div align="center">
-![Visitor Count](https://profile-counter.glitch.me/ahammadnafiz/count.svg)
+  
+  ![Visitor Count](https://profile-counter.glitch.me/ahammadnafiz/count.svg)
+  
 ## 🧠 Ahammad Nafiz
 </div>
 
