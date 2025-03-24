@@ -1,19 +1,34 @@
-make it minimal <div align="center">
+<div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/ahammadnafiz/count.svg)
 ## 🧠 Ahammad Nafiz
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-0F52BA?style=flat-square&logo=groq&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-654FF0?style=flat-square&logo=datadog&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-4285F4?style=flat-square&logo=googledocs&logoColor=white)
+
+### Data Science
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Visualization
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Development Tools
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahammadnafiz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
