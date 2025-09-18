@@ -1,7 +1,6 @@
 <div align="center">
-  ## 🧠 Ahammad Nafiz
+  <h2>🧠 Ahammad Nafiz</h2>
 </div>
-
 ## Tech Stack
 
 **AI & ML**  
