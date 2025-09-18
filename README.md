@@ -3,6 +3,7 @@
   ![Visitor Count](https://profile-counter.glitch.me/ahammadnafiz/count.svg)
   
 ## 🧠 Ahammad Nafiz
+**AI Engineer & Data Scientist**
 </div>
 
 ## Tech Stack
@@ -31,12 +32,8 @@
 ## Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahammadnafiz&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahammadnafiz&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahammadnafiz&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahammadnafiz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahammadnafiz&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ## Connect
