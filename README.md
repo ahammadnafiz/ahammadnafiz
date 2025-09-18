@@ -1,7 +1,5 @@
 <div align="center">
-
 ## 🧠 Ahammad Nafiz
-**AI Engineer & Data Scientist**
 </div>
 
 ## Tech Stack
