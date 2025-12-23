@@ -72,12 +72,11 @@ Taught OOP in Python to 40+ students, improving average performance by 25%
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahammadnafiz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahammadnafiz&theme=dark&hide_border=true" />
 </p>
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=About.me&logoColor=white)](https://ahammadnafiz.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=About.me&logoColor=white)](https://ahammadnafiz.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahammadnafiz86@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahammad-nafiz/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/ahammadnafiz)
