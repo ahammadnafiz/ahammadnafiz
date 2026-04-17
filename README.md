@@ -52,7 +52,7 @@
 
 ## Experience
 
-**AI Intern** @ AskTuring.ai | *Sep 2025 – Present*  
+**Jr Software Eng** @ AskTuring.ai | *Sep 2025 – Present*  
 Building evaluation systems and optimizing AI infrastructure for production deployment
 
 **Head of Research & Development** @ UIU Data Science Club | *Mar 2025 – Present*  
