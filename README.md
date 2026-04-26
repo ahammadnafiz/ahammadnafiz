@@ -52,14 +52,14 @@
 
 ## Experience
 
-**Jr Software Eng** @ AskTuring.ai | *Sep 2025 – Present*  
-Building evaluation systems and optimizing AI infrastructure for production deployment
+**Jr. Software Engineer** @ AskTuring.ai | *Sep 2025 – Present*  
+Promoted from AI Engineer Intern. Own the Eval Service and Admin Dashboard, and architect Deepen Answer — a production-grade RAG pipeline with extended-thinking LLMs, expanded retrieval, and an agentic gap-fill layer
+
+**Research Assistant** @ United International University | *Dec 2025 – Present*  
+Researching autonomous AI agents and multi-agent systems
 
 **Head of Research & Development** @ UIU Data Science Club | *Mar 2025 – Present*  
 Leading AI/ML research, student projects, and organizing industry collaborations
-
-**Teaching Assistant** @ United International University | *Jun 2024 – Jul 2024*  
-Taught OOP in Python to 40+ students, improving average performance by 25%
 
 ## Recognition
 
