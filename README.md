@@ -52,7 +52,7 @@
 
 ## Experience
 
-**Jr. Software Engineer** @ AskTuring.ai | *Sep 2025 – Present*  
+**Jr. Software Engineer** @ AskTuring.ai | *Sep 2025 – May 2026*  
 Promoted from AI Engineer Intern. Own the Eval Service and Admin Dashboard, and architect Deepen Answer — a production-grade RAG pipeline with extended-thinking LLMs, expanded retrieval, and an agentic gap-fill layer
 
 **Research Assistant** @ United International University | *Dec 2025 – Present*  
