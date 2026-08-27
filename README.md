@@ -6,10 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://ahammadnafiz.github.io/portfolio/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/ahammad-nafiz/">LinkedIn</a> ·
-  <a href="https://www.behance.net/ahammadnafiz">Behance</a> ·
-  <a href="mailto:ahammadnafiz86@gmail.com">Email</a>
+  <a href="https://ahammadnafiz.github.io/portfolio/"><img height="20" src="https://cdn.simpleicons.org/githubpages/24292f/e6edf3" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ahammadnafiz"><img height="20" src="https://cdn.simpleicons.org/github/24292f/e6edf3" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahammad-nafiz/"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.behance.net/ahammadnafiz"><img height="20" src="https://cdn.simpleicons.org/behance/1769FF" alt="Behance" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:ahammadnafiz86@gmail.com"><img height="20" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" /></a>
 </p>
 
 ---
@@ -38,18 +43,61 @@ Previously Jr. Software Engineer at AskTuring.ai, where I owned the Eval Service
 
 ### Stack
 
-**Languages** · Python, C++, SQL, Bash, CUDA
-**ML / DL** · PyTorch, scikit-learn, XGBoost, CatBoost, NumPy, Pandas, OpenCV
-**LLM** · LangChain, LangGraph, LlamaIndex, Transformers, CrewAI, vLLM
-**Backend** · FastAPI, Docker, Kubernetes, Linux
-**Data** · PostgreSQL, pgvector, Chroma, FAISS, Pinecone, Weaviate
-**MLOps** · MLflow, Weights & Biases, DVC, GitHub Actions
+<p align="center">
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" />
+</p>
+
+<p align="center">
+  <img height="34" src="https://cdn.simpleicons.org/langchain/24292f/e6edf3" alt="LangChain" title="LangChain" />
+  &nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" title="Hugging Face" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />
+  &nbsp;
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" />
+</p>
+
+<p align="center">
+  <sub>Also: LangGraph · LlamaIndex · CrewAI · vLLM · XGBoost · CatBoost · pgvector · FAISS · Pinecone · Weaviate · MLflow · Weights &amp; Biases · DVC</sub>
+</p>
 
 ### Stats
 
+<!--
+  These cards render on the public github-readme-stats instance, which is shared
+  and rate limited. If they ever break, fork anuraghazra/github-readme-stats,
+  deploy it to Vercel with a PAT_1 env variable, and swap the host below.
+-->
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahammadnafiz&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ahammadnafiz&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahammadnafiz&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahammadnafiz&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
 </p>
 
 ### Recognition
