@@ -90,14 +90,20 @@ Previously Jr. Software Engineer at AskTuring.ai, where I owned the Eval Service
 ### Stats
 
 <!--
-  These cards render on the public github-readme-stats instance, which is shared
-  and rate limited. If they ever break, fork anuraghazra/github-readme-stats,
-  deploy it to Vercel with a PAT_1 env variable, and swap the host below.
+  Cards come from github-profile-summary-cards (vn7n24fzkq), a different service
+  from github-readme-stats with its own API quota.
+  Themes: transparent, github_dark, dracula, nord_dark, tokyonight, radical,
+  monokai, gruvbox, solarized_dark, vue, zenburn, 2077, default.
+
+  For zero external dependency, run .github/workflows/profile-cards.yml. It commits
+  the same cards into this repo, and you then point the two srcs below at:
+    ./profile-summary-card-output/github_dark/3-stats.svg
+    ./profile-summary-card-output/github_dark/1-repos-per-language.svg
 -->
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahammadnafiz&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahammadnafiz&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahammadnafiz&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahammadnafiz&theme=transparent" alt="Top languages" />
 </p>
 
 ### Recognition
