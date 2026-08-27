@@ -1,82 +1,57 @@
-<div align="center">
-  <h1>Ahammad Nafiz</h1>
-</div>
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI/ML Frameworks**
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**LLM & GenAI**
-
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-6B46C1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDZWMTJDNCAxNi40MTggNy41ODIgMjAgMTIgMjBDMTYuNDE4IDIwIDIwIDE2LjQxOCAyMCAxMlY2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)
-
-**Data Science**
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Development & Deployment**
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## Featured Projects
-
-**Predicta** – End-to-end ML pipeline automation platform for EDA, feature engineering, and model selection. *Champion, CSE Project Show Spring 2024*
-
-**Analyzia** – Chat-based CSV analysis platform using LangChain agents with query-to-visual pipeline and real-time validation
-
-**Personal Knowledge Assistant** – Multi-agent RAG system with semantic search, document chunking, and LLM orchestration
-
-**YOLOv12 Food Detection** – Trained YOLOv12m (19.6M params) achieving 87.7% mAP@0.5 and 151 FPS on Bangladeshi food dataset
-
-**EduGen** – Curriculum-aligned educational content generator with Manim-powered animations
-
-## Experience
-
-**Jr. Software Engineer** @ AskTuring.ai | *Sep 2025 – May 2026*  
-Promoted from AI Engineer Intern. Own the Eval Service and Admin Dashboard, and architect Deepen Answer — a production-grade RAG pipeline with extended-thinking LLMs, expanded retrieval, and an agentic gap-fill layer
-
-**Research Assistant** @ United International University | *Dec 2025 – Present*  
-Researching autonomous AI agents and multi-agent systems
-
-**Head of Research & Development** @ UIU Data Science Club | *Mar 2025 – Present*  
-Leading AI/ML research, student projects, and organizing industry collaborations
-
-## Recognition
-
-🏆 Champion – IC 6 University Innovation Hub Program (BDT 60,000 pre-seed funding)  
-🏆 Best Prototype Award – Blockchain Olympiad, UIU CSE Fest 2025 (BDT 20,000)  
-🥇 Champion – UIU CSE Project Show Spring 2024  
-🥈 1st Runners Up – Data Innovators Challenge 2024
-
-## GitHub Stats
+<h1 align="center">Ahammad Nafiz</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahammadnafiz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  Data Science student and ML engineer based in Dhaka, Bangladesh.<br>
+  Building RAG systems, LLM agents, and memory infrastructure. Interested in mechanistic interpretability.
 </p>
 
-## Connect
+<p align="center">
+  <a href="https://ahammadnafiz.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ahammad-nafiz/">LinkedIn</a> ·
+  <a href="https://www.behance.net/ahammadnafiz">Behance</a> ·
+  <a href="mailto:ahammadnafiz86@gmail.com">Email</a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=About.me&logoColor=white)](https://ahammadnafiz.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahammadnafiz86@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahammad-nafiz/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/ahammadnafiz)
+---
+
+### Now
+
+- **Associate Product Engineer, DeepDive** at Markopolo AI, an AI social listening and narrative intelligence platform
+- **Research Assistant** at United International University, working on autonomous agents and multi-agent systems
+- **B.Sc. in Data Science**, United International University
+
+Previously Jr. Software Engineer at AskTuring.ai, where I owned the Eval Service and admin dashboard and architected Deepen Answer: a production RAG pipeline combining extended-thinking LLMs, an agentic gap-fill layer, and hybrid BM25 + vector search with reciprocal rank fusion.
+
+### Projects
+
+**[fizzlabai](https://github.com/ahammadnafiz/fizzlabai)** · Deep research agent running a deterministic 8-phase pipeline over the open web, returning cited Markdown with a full execution trace. FastAPI, LangGraph, Postgres/pgvector, OpenTelemetry.
+
+**[Engram](https://github.com/ahammadnafiz/engram)** · Persistent memory infrastructure for AI agents. Hybrid search, graph traversal, and durable task ledgers. Cuts LLM context cost up to 22x while holding 90%+ accuracy on LongMemEval, LoCoMo, and BEAM.
+
+**[Personal Knowledge Assistant](https://github.com/ahammadnafiz/Personal-Knowledge-Assistant)** · Multi-agent RAG with confidence-based routing, knowledge-strip decomposition, and automatic web-search fallback.
+
+**[Analyzia](https://github.com/ahammadnafiz/Analyzia)** · LangChain agent that turns plain-English questions over CSV data into pandas analysis and Plotly visualizations.
+
+**[SmartPrice Intelligence](https://github.com/ahammadnafiz/SmartPrice-Intelligence)** · 10,000+ smartphone listings scraped across 37 brands, then CatBoost/XGBoost models on 50+ engineered features (R² = 0.772).
+
+**[FizTorch](https://github.com/ahammadnafiz/FizTorch)** · NumPy deep learning framework built from scratch, with an autograd engine, core layers, and an Adam optimizer.
+
+### Stack
+
+**Languages** · Python, C++, SQL, Bash, CUDA
+**ML / DL** · PyTorch, scikit-learn, XGBoost, CatBoost, NumPy, Pandas, OpenCV
+**LLM** · LangChain, LangGraph, LlamaIndex, Transformers, CrewAI, vLLM
+**Backend** · FastAPI, Docker, Kubernetes, Linux
+**Data** · PostgreSQL, pgvector, Chroma, FAISS, Pinecone, Weaviate
+**MLOps** · MLflow, Weights & Biases, DVC, GitHub Actions
+
+### Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahammadnafiz&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ahammadnafiz&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
+</p>
+
+### Recognition
+
+Champion, IC6 University Innovation Hub Program (BDT 60,000 pre-seed) · Best Prototype, Blockchain Olympiad at UIU CSE Fest 2025 · Champion, UIU CSE Project Show Spring 2024 · 1st Runners Up, Data Innovators Challenge 2024
